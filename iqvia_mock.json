@@ -1,0 +1,18 @@
+{
+  "molecule_x": {
+    "molecule": "molecule_x",
+    "therapy_area": "Respiratory",
+    "market_size_patients_india": 1200000,
+    "cagr": 0.05,
+    "top_competitors": ["Company A", "Company B"],
+    "notes": "Low branded competition for inhaled reformulations."
+  },
+  "molecule_y": {
+    "molecule": "molecule_y",
+    "therapy_area": "Dermatology",
+    "market_size_patients_india": 800000,
+    "cagr": 0.03,
+    "top_competitors": ["Company C"],
+    "notes": "Growing interest in topical sustained release."
+  }
+}

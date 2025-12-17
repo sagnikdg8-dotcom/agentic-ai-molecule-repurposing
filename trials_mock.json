@@ -1,0 +1,26 @@
+[
+  {
+    "id": "NCT0001",
+    "molecule": "molecule_x",
+    "indication": "bronchiectasis",
+    "phase": "Phase II",
+    "sponsor": "University A",
+    "status": "Recruiting"
+  },
+  {
+    "id": "NCT0002",
+    "molecule": "molecule_x",
+    "indication": "COPD",
+    "phase": "Phase III",
+    "sponsor": "Biotech B",
+    "status": "Completed"
+  },
+  {
+    "id": "NCT1001",
+    "molecule": "molecule_y",
+    "indication": "psoriasis",
+    "phase": "Phase II",
+    "sponsor": "Pharma D",
+    "status": "Active, not recruiting"
+  }
+]

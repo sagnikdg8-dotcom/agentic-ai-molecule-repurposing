@@ -1,0 +1,23 @@
+[
+  {
+    "family": "PF0001",
+    "molecule": "molecule_x",
+    "title": "Inhalation delivery device",
+    "expiry": "2029-10-01",
+    "risk": "device-claim"
+  },
+  {
+    "family": "PF0002",
+    "molecule": "molecule_x",
+    "title": "New formulation",
+    "expiry": "2033-06-01",
+    "risk": "low"
+  },
+  {
+    "family": "PF0101",
+    "molecule": "molecule_y",
+    "title": "Topical composition",
+    "expiry": "2031-04-10",
+    "risk": "medium"
+  }
+]
